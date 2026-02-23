@@ -1,6 +1,9 @@
 # Professional Development Environment Setup
 ### `setup_dev_env.sh` — Debian 12 (Bookworm) | OpenSUSE Tumbleweed
 
+# So you want to become a proffesional developer do you 
+## Well here is how  you can do just that and far more 
+
 > **Tumbleweed status:** The script includes full OpenSUSE Tumbleweed support but
 > this has not yet been tested. Debian 12 is the actively tested and verified platform.
 > Tumbleweed testing is planned — use with caution on that platform until confirmed.
